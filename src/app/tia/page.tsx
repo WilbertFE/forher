@@ -33,7 +33,7 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 export default function page() {
   const cards = [
     {
-      title: "The Real Wilbert Bernardi",
+      title: "Wilbert Bernardi",
       description: "How people misunderstanding me",
       content: [
         "Jacob, Olivia, David, Willy, and some of my closest friends think I'm numb (a human who can't like/fall in love with other people).  Not just my close friends actually, many people also think like that about me. ",
@@ -64,6 +64,7 @@ export default function page() {
         "I didn't ask you on a relationship with me, because I couldn't either. And I also don't ask you to wait until I'm ready. Because I know, waiting without certainty is painful. ",
         "But if, for example, one day I can be financially independent and you still like me, maybe we can do it. Just maybe. ",
         "I pray for you, hopefully you can achieve whatever your dreams are.",
+        "At school, maybe I will continue to act as usual, so that rumors don't spread. I hope you do too. This is for both of us. For now, I think this should not be known to others.",
       ],
     },
   ];
